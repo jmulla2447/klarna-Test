@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.klarna.risk.decision.domain.CreditDecisionMakerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-18T11:54:11" hostname="Javeds-MBP" time="0.009">
+  <properties/>
+  <testcase name="shouldNotAcceptCreditRequestsUpToPurchaseAmountLimit()" classname="com.klarna.risk.decision.domain.CreditDecisionMakerTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
